@@ -1,0 +1,6 @@
+# echarrisonWTCC.github.io
+Name: El Harrison
+Email address: echarrison@my.waketech.edu
+Description of Github account: This GitHub account was created for my CTI-110 class at Wake Technical Community College as a place to host my project website. I may use this account for other personal and/or education-related projects as needed. I had to add “WTCC” to my username because “echarrison” was not acceptable. 
+Description of repository: This repository will house my project website for CTI-110, a “personal profile” and introductory website. 
+Steps taken to clone repository: After creating my GitHub account and verifying my email address, I followed the directions and clicked the “+” to create a new repository and named it. I then downloaded, launched, and signed into GitHub Desktop, and cloned my new repository. I attempted to move my files into the new repository folder on my desktop, but had several issues when attempting to “push” the changes. It took me several attempts to correctly transfer my files so that my website was discoverable at “https://echarrisonwtcc.github.io/index.html/index.html”; I had to delete and redo steps 1-9 in the “GitHub assignment” instruction handout, but I was eventually able to launch the website. 
